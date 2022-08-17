@@ -38,12 +38,12 @@ class StaticUtils {
   ];
 
   static const List<String> socialLinks = [
-    "",
-    "",
-    "",
-    "https://linkedin.com/in/muhammed-salah-koyilandy",
+    // "",
+    // "",
+    // "",
+    "https://in.linkedin.com/in/muhammed-salah-koyilandy",
     "https://github.com/salahvk",
-    ""
+    // ""
   ];
 
   static const String resume =
