@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521019638994",
+    "project_id": "findsalah",
+    "storage_bucket": "findsalah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521019638994:android:e4e0f202b6cca10ca5190b",
+        "android_client_info": {
+          "package_name": "com.salah.folio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521019638994-jusur1fjep31bvp80jebrk1g4eq1ej4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRBP2Xl5sB4TCD5MgQWzf4-O_jCnPPy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521019638994-jusur1fjep31bvp80jebrk1g4eq1ej4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

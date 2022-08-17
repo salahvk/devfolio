@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hmz.folio">
+    package="com.salah.folio">
    <uses-permission android:name="android.permission.INTERNET" /> 
    <application
         android:label="salah"
