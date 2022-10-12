@@ -1,6 +1,6 @@
 class ProjectUtils {
   static const List<String> banners = [
-    "assets/projects/snackbar.png",
+    "assets/salah/salaflix (1).png",
     "assets/projects/quranB.png",
     "assets/projects/medkitB.png",
     "assets/projects/hereiamB.png",
@@ -8,7 +8,7 @@ class ProjectUtils {
   ];
 
   static const List<String> icons = [
-    "assets/projects/flutter.png",
+    "assets/salah/salaflix_removebg.png",
     "assets/projects/quran.png",
     "assets/projects/medkit.png",
     "assets/projects/hereiam.png",
@@ -22,7 +22,7 @@ class ProjectUtils {
   ];
 
   static const List<String> titles = [
-    "Awesome Snackbar Dart Package",
+    "Salaflix TMDB App",
     "The Holy Qur'an",
     "MedKit",
     "Here I Am",
@@ -36,7 +36,7 @@ class ProjectUtils {
   ];
 
   static const List<String> description = [
-    "A very unique dart package to uplift the snackbar experience in flutter. Available at pub.dev now!",
+    "It's the small TMDB app where you can know everything about movies and Tv series. You can also watch trailers of these contents.",
     "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md",
     "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels.",
     "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones.",
@@ -50,7 +50,7 @@ class ProjectUtils {
   ];
 
   static const List<String> links = [
-    "https://pub.dev/packages/awesome_snackbar_content",
+    "https://github.com/salahvk/salaflix",
     "https://github.com/mhmzdev/The_Holy_Quran_App",
     "https://github.com/mhmzdev/MedKit-Pharmacy-App-Using-Flutter",
     "https://github.com/mhmzdev/Here-I-Am-Alert-App",
